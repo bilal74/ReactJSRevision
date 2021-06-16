@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+<!-- React Validation Library -->
+<!-- npm i react-validation -->
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

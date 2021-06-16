@@ -1,23 +1,23 @@
 import logo from './logo.svg';
 import './App.css';
+import {FunctionalComp} from './Components/FunctionalComp';
+import FunctionalComp1 from './Components/FunctionalComp1';
+import {JSX} from './Components/JSX';
+// import {JSXLite} from './Components/JSXLite';
+import {ClickEvents} from './Components/ClickEvents';
+import {ClickEventAndFunction07} from './Components/ClickEventAndFunction07';
+
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      {/* <h1>Hello Sourav</h1> */}
+      {/* <FunctionalComp /> */}
+      {/* <FunctionalComp1 /> */}
+      {/* <JSX /> */}
+      {/* <JSXLite /> */}
+      {/* <ClickEvents /> */}
+      <ClickEventAndFunction07 />
     </div>
   );
 }

@@ -3,9 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import {User01} from './Components/User01';
 
 ReactDOM.render(
   <React.StrictMode>
+    {/* <User01 /> */}
     <App />
   </React.StrictMode>,
   document.getElementById('root')
