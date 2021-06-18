@@ -13,6 +13,6 @@ export const JSX = () => {
 
 // class = className
 // <a> = <link> 
-// HTMLfor = for
+// for = HTMLfor 
 // href = to 
-// close a single tag
+// close a single tag '/'>
